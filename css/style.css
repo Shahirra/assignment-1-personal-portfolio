@@ -100,7 +100,7 @@ hr {
     border-radius: 50%;
     border: 6px solid #E8F4FF;
     width: 200px;
-    height: 200px;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
 }
 
